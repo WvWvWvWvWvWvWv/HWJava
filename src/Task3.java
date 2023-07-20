@@ -5,7 +5,7 @@ public class Task3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите число: ");
         int n = scanner.nextInt();
-        System.out.println("Что хотите сделать с числом? Введите знак +,-,*,/,**");
+        System.out.println("Что хотите сделать с числом? Введите знак +,-,*,/");
         String deistvie = scanner.next();
         System.out.println("Введите число: ");
         int n2 = scanner.nextInt();
