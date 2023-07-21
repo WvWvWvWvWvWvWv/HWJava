@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:18:16.940089Z</date>
+  <millis>1689949096940</millis>
+  <nanos>89000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:18:36.020456Z</date>
+  <millis>1689949116020</millis>
+  <nanos>456000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:18:42.037705Z</date>
+  <millis>1689949122037</millis>
+  <nanos>705000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:21:33.391955Z</date>
+  <millis>1689949293391</millis>
+  <nanos>955000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:21:42.077346Z</date>
+  <millis>1689949302077</millis>
+  <nanos>346000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:21:51.259115Z</date>
+  <millis>1689949311259</millis>
+  <nanos>115000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:22:21.933439Z</date>
+  <millis>1689949341933</millis>
+  <nanos>439000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:22:27.559845Z</date>
+  <millis>1689949347559</millis>
+  <nanos>845000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:22:30.104730Z</date>
+  <millis>1689949350104</millis>
+  <nanos>730000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-21T14:24:54.583394Z</date>
+  <millis>1689949494583</millis>
+  <nanos>394000</nanos>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>HW2.Task1</class>
+  <method>writeToFile</method>
+  <thread>1</thread>
+  <message>Запись успешно выполнена</message>
+</record>
+</log>
